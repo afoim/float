@@ -4,9 +4,8 @@ date = 2025-08-06
 description = "今天无意中建了个企业微信群，然后就发现可以加智能体，然后就调了个猫娘出来..."
 [taxonomies]
 tags = ["企业微信", "Deepseek"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-07-04-10-58-image.webp"
+feature_image = "img/2025-08-07-04-10-58-image.webp"
 +++
 
 

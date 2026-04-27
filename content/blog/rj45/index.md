@@ -2,8 +2,10 @@
 title = "教你手搓网线！打好人生第一个水晶头！"
 date = 2026-03-23
 description = "现代生活离不开网络，你想要自己搓一根网线吗？"
+[taxonomies]
+tags = []
 [extra]
-image = "img/rj45.png"
+feature_image = "img/rj45.png"
 +++
 # 为什么要这么做？
 有人说，我要接网线的话，为什么不去买成品网线？

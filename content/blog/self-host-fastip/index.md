@@ -4,9 +4,8 @@ date = 2025-07-21
 description = "自建各大CDN服务的优选域名非常简单，只需要先这样，再这样...但是踩坑的地方也不少..."
 [taxonomies]
 tags = ["优选", "CDN"]
-series = ["教程"]
 [extra]
-image = "img/5df07ad0-01cd-4541-9321-b0ded148a90f.webp"
+feature_image = "img/5df07ad0-01cd-4541-9321-b0ded148a90f.webp"
 +++
 
 

@@ -2,8 +2,10 @@
 title = "Codex！无限剑制！"
 date = 2026-03-06
 description = "多的不说，仅做记录"
+[taxonomies]
+tags = []
 [extra]
-image = "img/codex.png"
+feature_image = "img/codex.png"
 +++
 # 原理
 

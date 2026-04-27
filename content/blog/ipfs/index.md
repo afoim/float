@@ -4,9 +4,8 @@ date = 2024-10-16
 description = "IPFS是一个多节点的文件托管系统，你可以在上面共享文件、发布网站、而Fleek自动化了这个过程，并且可以链接你的Git存储库"
 [taxonomies]
 tags = ["Fleek", "IPFS"]
-series = ["随笔"]
 [extra]
-image = "img/2024-10-17-09-55-55-image.webp"
+feature_image = "img/2024-10-17-09-55-55-image.webp"
 +++
 
 

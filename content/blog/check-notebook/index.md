@@ -4,9 +4,8 @@ date = 2025-11-09
 description = "众所周知，笔记本电脑在激活后就不能七天无理由退了，但是不联网又很难测，那么有没有什么两全其美的办法呢？"
 [taxonomies]
 tags = ["笔记本"]
-series = ["教程"]
 [extra]
-image = "img/Screenshot_2025-11-11-08-12-40-74_4fbb30eb7b71661.webp"
+feature_image = "img/Screenshot_2025-11-11-08-12-40-74_4fbb30eb7b71661.webp"
 +++
 # 说在前面
 首先，购买任何 **较贵重的** 电子产品，都应该录制 **开箱视频** 

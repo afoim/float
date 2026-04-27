@@ -4,9 +4,8 @@ date = 2025-07-09
 description = "很讨厌别人用ITDog等拨测服务疯狂测试你的站点？拒绝他们！"
 [taxonomies]
 tags = ["Vercel"]
-series = ["教程"]
 [extra]
-image = "img/d81562f3-8efb-45f3-8dd1-72cb9c032bc2.webp"
+feature_image = "img/d81562f3-8efb-45f3-8dd1-72cb9c032bc2.webp"
 +++
 # 配套视频
 

@@ -2,8 +2,10 @@
 title = "什么？4元每月200G的服务器？还是阿里的？还有联通9929精品回程？？"
 date = 2026-01-16
 description = "通过创建抢占型实例+每月免费CDT 200G流量包，你几乎只需要付很少的硬盘费！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/aliyun-ecs-4rm.webp"
+feature_image = "img/aliyun-ecs-4rm.webp"
 +++
 # 正式开始
 > [!CAUTION]

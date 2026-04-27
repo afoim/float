@@ -2,8 +2,10 @@
 title = "握草，用浏览器检测你的NAT类型？！"
 date = 2026-04-04
 description = "众所周知，NAT类型的检测并不是什么门槛，但是，如果我说纯浏览器也可以实现检测呢..."
+[taxonomies]
+tags = []
 [extra]
-image = "img/nat.png"
+feature_image = "img/nat.png"
 +++
 # 视频（非教程）
 

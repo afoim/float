@@ -4,9 +4,8 @@ date = 2024-11-19
 description = "使用NapCat连接NoneBot2，打造自己的聊天机器人"
 [taxonomies]
 tags = ["QQBot"]
-series = ["教程"]
 [extra]
-image = "img/QmcMSSKysZmgUCUk9W7hQUvZCtVSFH6hGKHctg99yo1yDE.webp"
+feature_image = "img/QmcMSSKysZmgUCUk9W7hQUvZCtVSFH6hGKHctg99yo1yDE.webp"
 +++
 
 # 安装 NapCat(Win)

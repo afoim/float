@@ -2,8 +2,10 @@
 title = "你有一个全球网站？如何做好监控？"
 date = 2026-01-09
 description = "如果你正好在运营一个全球性的网站，它可能在不同地区有不同节点，我们要如何做好宕机提醒？"
+[taxonomies]
+tags = []
 [extra]
-image = "img/double-monitior.webp"
+feature_image = "img/double-monitior.webp"
 +++
 
 

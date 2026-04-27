@@ -4,9 +4,8 @@ date = 2025-08-23
 description = "受人委托解包尘白禁区的加载图CG，记录一下流程，方便日后复习"
 [taxonomies]
 tags = ["尘白禁区", "解包"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-24-01-13-41-3824c5ece06cc56241688f4a4aacbcbd.webp"
+feature_image = "img/2025-08-24-01-13-41-3824c5ece06cc56241688f4a4aacbcbd.webp"
 +++
 
 > 参考了 [虚幻4游戏解包导出及Mod制作指南 - 知乎](https://zhuanlan.zhihu.com/p/7144045084)

@@ -2,8 +2,10 @@
 title = "教你在Cloudflare上原生托管视频！自建YouTube！"
 date = 2026-02-26
 description = "你知道吗？Cloudflare上也是可以“原生”托管视频的！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/cfvideo.png"
+feature_image = "img/cfvideo.png"
 +++
 # 引言
 

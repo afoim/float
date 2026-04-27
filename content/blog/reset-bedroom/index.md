@@ -4,9 +4,8 @@ date = 2025-04-03
 description = "起因只是凌晨苏醒的灵机一动，然后..."
 [taxonomies]
 tags = ["生活"]
-series = ["记录"]
 [extra]
-image = "img/37fc1d0b-533f-4905-a7ff-ab906fcb1860.webp"
+feature_image = "img/37fc1d0b-533f-4905-a7ff-ab906fcb1860.webp"
 +++
 
 # 前言

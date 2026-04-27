@@ -4,9 +4,8 @@ date = 2025-06-21
 description = "本来对EdgeOne不感兴趣的，但是后来被引诱说没备案可以用国内节点，虽然好像当事者是开玩笑但是节点速度真的不错"
 [taxonomies]
 tags = ["EdgeOne", "优选"]
-series = ["记录"]
 [extra]
-image = "img/3a9096b2-cee8-448b-952a-d9f68cb01be6.webp"
+feature_image = "img/3a9096b2-cee8-448b-952a-d9f68cb01be6.webp"
 +++
 
 

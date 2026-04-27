@@ -5,7 +5,7 @@ description = "之前曾用过BetterStack这样的云端服务监控，但是免
 [taxonomies]
 tags = ["UptimeRobot"]
 [extra]
-image = "img/2025-09-04-04-08-47-image.webp"
+feature_image = "img/2025-09-04-04-08-47-image.webp"
 +++
 # 正式开始
 

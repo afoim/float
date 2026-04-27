@@ -2,8 +2,10 @@
 title = "隐私政策"
 date = 1998-12-31
 description = "本隐私政策适用于AcoFork Blog（以下简称“我们”）。"
+[taxonomies]
+tags = []
 [extra]
-image = "img/privacy-policy.png"
+feature_image = "img/privacy-policy.png"
 +++
 
 # All Cookies

@@ -4,9 +4,8 @@ date = 2026-04-18
 description = "如何像Windows一样管理Linux文件和开发？SSHFS来帮你！"
 [taxonomies]
 tags = ["SSHFS"]
-series = ["教程"]
 [extra]
-image = "img/Linux-win.png"
+feature_image = "img/Linux-win.png"
 +++
 
 # 引言

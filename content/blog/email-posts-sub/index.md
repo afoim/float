@@ -2,8 +2,10 @@
 title = "手搓一个电子邮件订阅器！"
 date = 2026-04-03
 description = "你可曾想过手搓一个基于邮件形式的文章订阅器？读者只需告诉系统邮箱，之后的文章更新都会发一封邮件来通知他们！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/email.png"
+feature_image = "img/email.png"
 +++
 # 视频
 

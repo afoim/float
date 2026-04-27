@@ -2,8 +2,10 @@
 title = "终极版！国内免梯上Github！"
 date = 2026-03-10
 description = "巨简单！1分钟自建你的Github代理！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/cf-gh.png"
+feature_image = "img/cf-gh.png"
 +++
 # 视频
 

@@ -4,9 +4,8 @@ date = 2025-07-21
 description = "Cloudflare带宽联盟是一个多云服务商联合构建的服务体系，在指定的云服务商中，如果流量通过Cloudflare路由则不收取流量费用，用户仅需要支付存储费用"
 [taxonomies]
 tags = ["Cloudflare"]
-series = ["记录"]
 [extra]
-image = "img/bf447f03-220b-494b-9f32-da71caa8b43d.webp"
+feature_image = "img/bf447f03-220b-494b-9f32-da71caa8b43d.webp"
 +++
 
 # 这是什么

@@ -4,9 +4,8 @@ date = 2026-01-10
 description = "使用SaaS、Worker以及各种奇技淫巧来让你的网站解析的IP进行分流优选，提高网站可用性和速度"
 [taxonomies]
 tags = ["Cloudflare SaaS", "Cloudflare Byoip"]
-series = ["教程"]
 [extra]
-image = "img/cf-fastip-11.webp"
+feature_image = "img/cf-fastip-11.webp"
 +++
 # 相关视频：
 - **全解**： https://www.bilibili.com/video/BV1QpSoBqERj

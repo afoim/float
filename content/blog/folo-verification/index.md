@@ -4,9 +4,8 @@ date = 2025-08-10
 description = "Folo是一个RSS聚合平台，在上面不仅可以订阅很多优质的RSS源，也可以认领自己的RSS源"
 [taxonomies]
 tags = ["Folo"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-10-21-31-04-image.webp"
+feature_image = "img/2025-08-10-21-31-04-image.webp"
 +++
 
 

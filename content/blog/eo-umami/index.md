@@ -2,8 +2,10 @@
 title = "WTF？！直接将Umami部署到EdgeOne Pages？扔掉VPS！直接跑在云函数！"
 date = 2026-01-19
 description = "我们都知道，EdgeOne Pages有个完整的Node.js环境，那Umami是Next.js也基于Node.js，那我们是不是可以..."
+[taxonomies]
+tags = []
 [extra]
-image = "img/eo-umami-1.webp"
+feature_image = "img/eo-umami-1.webp"
 +++
 
 # 原理探寻

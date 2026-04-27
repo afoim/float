@@ -4,9 +4,8 @@ date = 2025-08-08
 description = "你是否见过类似 e.b.9.f.0.7.4.0.1.0.0.2.ip6.arpa 这样的域名，今天就教你搞一个！"
 [taxonomies]
 tags = ["IPv6", "ip6.arpa"]
-series = ["教程"]
 [extra]
-image = "img/2025-08-09-04-50-44-image.webp"
+feature_image = "img/2025-08-09-04-50-44-image.webp"
 +++
 
 

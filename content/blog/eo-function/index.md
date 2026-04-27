@@ -4,9 +4,8 @@ date = 2025-07-31
 description = "很早就知道EdgeOne边缘函数，一直都没来得及体验，今天上手后发现它真的很强大"
 [taxonomies]
 tags = ["EdgeOne"]
-series = ["教程"]
 [extra]
-image = "img/6c1b4054-0a9a-42dd-a72b-d179216ac61f.webp"
+feature_image = "img/6c1b4054-0a9a-42dd-a72b-d179216ac61f.webp"
 +++
 
 

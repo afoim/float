@@ -4,9 +4,8 @@ date = 2024-10-13
 description = "飞牛NAS系统是一个现代的开源的NAS系统。影视刮削在国内属于TOP1，并且刚需的Docker软件也功能全面易用，博主本人也在使用"
 [taxonomies]
 tags = ["飞牛NAS"]
-series = ["体验"]
 [extra]
-image = "img/QmUBuX9qmsNP1NHeEeUmuPNdS5ctvk4LchcSsFARDC4vZJ.webp"
+feature_image = "img/QmUBuX9qmsNP1NHeEeUmuPNdS5ctvk4LchcSsFARDC4vZJ.webp"
 +++
 
 ### 吸引我的东西

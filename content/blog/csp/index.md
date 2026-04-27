@@ -4,9 +4,8 @@ date = 2025-07-30
 description = "CSP 是内容安全策略，它可以限制恶意脚本执行，从而降低 XSS 攻击带来的信息泄露风险"
 [taxonomies]
 tags = ["XSS攻击", "CSP"]
-series = ["记录"]
 [extra]
-image = "img/e245d917-2255-4d2d-85fb-aa7538a18022.webp"
+feature_image = "img/e245d917-2255-4d2d-85fb-aa7538a18022.webp"
 +++
 
 # 举个例子吧！

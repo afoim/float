@@ -2,8 +2,10 @@
 title = "完全免费！搭建一个自己的短链服务！"
 date = 2026-01-14
 description = "利用 Cloudflare Worker 和 GitHub，可以搭建一个纯静态、可自动维护的短链服务"
+[taxonomies]
+tags = []
 [extra]
-image = "img/static-redirect-group.webp"
+feature_image = "img/static-redirect-group.webp"
 +++
 
 # 前言

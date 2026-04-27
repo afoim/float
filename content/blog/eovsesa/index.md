@@ -2,8 +2,10 @@
 title = "EO VS ESA，谁才是国内CDNの王？！"
 date = 2026-01-16
 description = "EdgeOne和ESA都是非常好的免费国内CDN，常规用起来几乎一模一样，今天我们就来让他俩一决雌雄！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/eovsesa.webp"
+feature_image = "img/eovsesa.webp"
 +++
 
 # 前言

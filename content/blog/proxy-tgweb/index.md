@@ -4,9 +4,8 @@ date = 2025-08-01
 description = "TG Web采用前后端分离，前端可以部署到静态托管平台，而后端可以用各种服务反代"
 [taxonomies]
 tags = ["Telegram Web", "反向代理"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-02-18-10-18-image.webp"
+feature_image = "img/2025-08-02-18-10-18-image.webp"
 +++
 
 

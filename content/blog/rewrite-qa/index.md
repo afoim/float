@@ -4,9 +4,8 @@ date = 2024-11-27
 description = "Rewrite打完才发现MV一个没看到"
 [taxonomies]
 tags = ["Rewrite"]
-series = ["随笔"]
 [extra]
-image = "https://eo-r2.2x.nz/myblog/img/bafybeihhyuk3zjqkisf66swxft4j5srv3g7wozy3zn4ykpsh3cuveuuwb4.webp"
+feature_image = "https://eo-r2.2x.nz/myblog/img/bafybeihhyuk3zjqkisf66swxft4j5srv3g7wozy3zn4ykpsh3cuveuuwb4.webp"
 +++
 # 我使用的解决方法（Windows 10及以上带有Microsoft Store的系统）
 

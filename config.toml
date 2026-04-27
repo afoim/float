@@ -1,0 +1,27 @@
+base_url = "https://example.org"
+title = "Acofork's Blog"
+description = "迁移自 svaf 的文章存档"
+default_language = "en"
+
+compile_sass = true
+build_search_index = false
+generate_feeds = true
+
+taxonomies = [
+    {name = "tags", paginate_by = 6},
+]
+
+[markdown.highlighting]
+theme = "ayu-dark"
+
+[link_checker]
+internal_level = "warn"
+
+[slugify]
+paths = "safe"
+taxonomies = "safe"
+anchors = "safe"
+
+[extra]
+main_section = "blog"
+twitter_account = "@xxx"

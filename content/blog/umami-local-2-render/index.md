@@ -4,9 +4,8 @@ date = 2025-08-28
 description = "之前的站点统计部署在家里云NAS，通过IPv6回源，而现在我将他迁移到了Render+Supabase"
 [taxonomies]
 tags = ["Umami"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-28-10-01-43-image.webp"
+feature_image = "img/2025-08-28-10-01-43-image.webp"
 +++
 
 

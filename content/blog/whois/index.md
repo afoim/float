@@ -4,9 +4,8 @@ date = 2025-05-27
 description = "你有没想过自己部署一个第三方的Whois查询服务？我做过，这里面全是坑！"
 [taxonomies]
 tags = ["Whois"]
-series = ["记录"]
 [extra]
-image = "img/16ab7a68-892e-429e-a0bc-02d829eead82.webp"
+feature_image = "img/16ab7a68-892e-429e-a0bc-02d829eead82.webp"
 +++
 # 前言
 

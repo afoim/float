@@ -4,9 +4,8 @@ date = 2025-07-22
 description = "感兴趣的可以先去voce.chat购买一个Pro版本后再阅读此文~本文也是一个使用REST API通信的软件通用的破解教程"
 [taxonomies]
 tags = ["破解"]
-series = ["记录"]
 [extra]
-image = "img/caa0d269-fc78-4352-8d71-0bc33c122ddd.webp"
+feature_image = "img/caa0d269-fc78-4352-8d71-0bc33c122ddd.webp"
 +++
 
 

@@ -4,9 +4,8 @@ date = 2025-08-12
 description = "博客开源了就会有很多小笨蛋Fork完改也改不全，导致评论也评论到我这来了，浏览量统计也来我这来了😅"
 [taxonomies]
 tags = ["CORS"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-12-15-44-06-image.webp"
+feature_image = "img/2025-08-12-15-44-06-image.webp"
 +++
 # 前情提要
 

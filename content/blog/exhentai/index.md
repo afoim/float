@@ -4,9 +4,8 @@ date = 2025-08-12
 description = "上周也是突然想到e站这个神奇的网站，但是2年的账号居然进不了里站，这里总结一些进里站的心路历程~"
 [taxonomies]
 tags = ["exhentai"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-12-19-13-14-image.webp"
+feature_image = "img/2025-08-12-19-13-14-image.webp"
 +++
 
 

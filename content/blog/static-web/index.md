@@ -4,9 +4,8 @@ date = 2025-07-13
 description = "Serverless服务有很多，静态托管就是重中之重，来看看谁最稳定快速"
 [taxonomies]
 tags = ["Vercel", "Cloudflare", "Netlify", "EdgeOne", "Github", "Render"]
-series = ["记录"]
 [extra]
-image = "img/da8b7a38-7247-43af-b272-f012f2dd024d.webp"
+feature_image = "img/da8b7a38-7247-43af-b272-f012f2dd024d.webp"
 +++
 
 

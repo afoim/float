@@ -2,8 +2,10 @@
 title = "想要一个Cookie管理器？无需手搓！"
 date = 2026-01-30
 description = "Cookie Consent是一个开源简单实现的Cookie管理器，能让您的网站GDPR合规，仅需复制粘贴！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/cookie-consent.webp"
+feature_image = "img/cookie-consent.webp"
 +++
 # 前言
 你的网站是否有很多的跟踪器？如 **Google Analytics、Google Adsense、Microsoft Clarity、百度统计** 等等？

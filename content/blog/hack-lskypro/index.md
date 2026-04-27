@@ -4,9 +4,8 @@ date = 2025-08-19
 description = "兰空图床是一个简洁易用（？）的图床框架，抓包了一下激活过程，这玩意居然没加密...记录一下"
 [taxonomies]
 tags = ["兰空图床"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-20-21-11-48-image.webp"
+feature_image = "img/2025-08-20-21-11-48-image.webp"
 +++
 
 

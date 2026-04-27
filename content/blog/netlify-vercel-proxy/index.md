@@ -4,9 +4,8 @@ date = 2025-04-03
 description = "会用Netlify，家宽建站不是梦！"
 [taxonomies]
 tags = ["Netlify", "Vercel"]
-series = ["随笔"]
 [extra]
-image = "img/nvp.webp"
+feature_image = "img/nvp.webp"
 +++
 
 

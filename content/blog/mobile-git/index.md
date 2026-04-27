@@ -4,9 +4,8 @@ date = 2025-11-10
 description = "在桌面端，我们可以用 VS Code 和 Obsidian 写文章；那么到了手机上，是否也能保持同样顺手的写作体验？"
 [taxonomies]
 tags = ["Git", "博客"]
-series = ["随笔"]
 [extra]
-image = "img/Screenshot_2025-11-11-14-04-23-56_a2e3670364a4153bdb03dad30c8d4108.webp"
+feature_image = "img/Screenshot_2025-11-11-14-04-23-56_a2e3670364a4153bdb03dad30c8d4108.webp"
 +++
 
 # 正式开始

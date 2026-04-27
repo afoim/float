@@ -4,9 +4,8 @@ date = 2025-08-11
 description = "欧呦不赖，开了个大会员终于可以戴上Netlify的表情咯~"
 [taxonomies]
 tags = ["Telegram"]
-series = ["教程"]
 [extra]
-image = "img/2025-08-11-22-19-55-image.webp"
+feature_image = "img/2025-08-11-22-19-55-image.webp"
 +++
 
 

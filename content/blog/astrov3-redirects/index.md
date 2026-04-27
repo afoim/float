@@ -5,7 +5,7 @@ description = "曾经，我使用Cloudflare Pages Redirects来实现我的个人
 [taxonomies]
 tags = ["重定向", "Astro"]
 [extra]
-image = "img/2025-09-02-05-59-33-image.webp"
+feature_image = "img/2025-09-02-05-59-33-image.webp"
 +++
 
 

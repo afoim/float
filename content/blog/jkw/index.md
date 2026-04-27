@@ -2,8 +2,10 @@
 title = "极客湾手机大横评补档"
 date = 2026-02-25
 description = "大手来了，我说大手来了你尔朵隆吗"
+[taxonomies]
+tags = []
 [extra]
-image = "img/jkw.png"
+feature_image = "img/jkw.png"
 +++
 <video  
 data-dashjs-player  

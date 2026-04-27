@@ -5,7 +5,7 @@ description = "折腾了整整一天，终于解决了这傻逼Astro对于静态
 [taxonomies]
 tags = ["Astro"]
 [extra]
-image = "img/2025-09-10-06-19-15-image.webp"
+feature_image = "img/2025-09-10-06-19-15-image.webp"
 +++
 
 

@@ -2,8 +2,10 @@
 title = "让我们来看看图片防盗链各大厂做的怎么样！"
 date = 2026-02-01
 description = "今天突发奇想就像试试抓抓各大厂的头像接口，没想到有挺多根本没有防盗链"
+[taxonomies]
+tags = []
 [extra]
-image = "img/avatar.webp"
+feature_image = "img/avatar.webp"
 +++
 
 

@@ -5,7 +5,7 @@ description = "想不想在上帝视角监测你的服务器？顺便再把Uptim
 [taxonomies]
 tags = ["哪吒监控"]
 [extra]
-image = "img/2025-09-03-05-00-43-image.webp"
+feature_image = "img/2025-09-03-05-00-43-image.webp"
 +++
 
 

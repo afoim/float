@@ -2,8 +2,10 @@
 title = "魔幻嫁接！免费用上完全体的Bitwarden！"
 date = 2026-02-23
 description = "你是否正在寻找一个密码库？又不想自托管？"
+[taxonomies]
+tags = []
 [extra]
-image = "img/bitwarden.png"
+feature_image = "img/bitwarden.png"
 +++
 
 # Bitwarden以及Bitwarden.com是什么

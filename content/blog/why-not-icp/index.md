@@ -4,9 +4,8 @@ date = 2025-07-28
 description = "由于诸多原因，本站并未进行ICP备案，这里记录了一些原因"
 [taxonomies]
 tags = ["ICP"]
-series = ["记录"]
 [extra]
-image = "img/d24c6c12-a8c9-4577-a4bc-0de768c23337.webp"
+feature_image = "img/d24c6c12-a8c9-4577-a4bc-0de768c23337.webp"
 +++
 > ~~目前已备案，该文章存档~~  被DDOS大肘子打回CF了
 # 违规内容

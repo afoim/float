@@ -4,9 +4,8 @@ date = 1998-12-31
 description = "一些记录，不定时更新"
 [taxonomies]
 tags = ["记录"]
-series = ["记录"]
 [extra]
-image = "img/record.png"
+feature_image = "img/record.png"
 +++
 
 

@@ -4,9 +4,8 @@ date = 2025-02-22
 description = "你可能不知道，我曾经购入过一台N100迷你主机，不久后便卖掉了，不过现在我又购入了，这是为什么呢？"
 [taxonomies]
 tags = ["NAS"]
-series = ["随笔"]
 [extra]
-image = "img/b8b7d06a-1ca4-4786-a147-5275f57dfb3b.webp"
+feature_image = "img/b8b7d06a-1ca4-4786-a147-5275f57dfb3b.webp"
 +++
 
 # 我为什么在很久之前买了一个NAS（？存疑

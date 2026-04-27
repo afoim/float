@@ -4,9 +4,8 @@ date = 2025-08-03
 description = "Giscus就是这样一个很好的评论区，它基于Github Discussion，无需自托管，无需你管理账号，仅需引入一个JS即可用！"
 [taxonomies]
 tags = ["Giscus", "评论区"]
-series = ["教程"]
 [extra]
-image = "img/2025-08-04-12-14-21-image.webp"
+feature_image = "img/2025-08-04-12-14-21-image.webp"
 +++
 
 

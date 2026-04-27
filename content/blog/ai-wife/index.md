@@ -4,9 +4,8 @@ date = 2026-04-26
 description = "极！其！简！单！傻！子！都！会！本期将手把手教你从软件安装，到模型配置再到出图，百分百画出惊艳的图片！"
 [taxonomies]
 tags = ["AI绘图", "WAI"]
-series = ["教程"]
 [extra]
-image = "img/index.png"
+feature_image = "img/index.png"
 +++
 # 引言
 

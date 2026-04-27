@@ -2,8 +2,10 @@
 title = "网站分流怎么做？全球秒开！有点坐牢，但是好玩！"
 date = 2026-01-11
 description = "网站分流看着很难，实际上一点都不简单，如果你也感兴趣（想坐牢），那就来试试8！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/fenliu.webp"
+feature_image = "img/fenliu.webp"
 +++
 
 # 需分流的网站

@@ -4,9 +4,8 @@ date = 2025-01-12
 description = "阿里云云函数 FC是一个弹性的计算平台，可托管多种服务。搭配AList的前后端分离部署，实现比VPS更低的价格，得到更好的体验"
 [taxonomies]
 tags = ["阿里云云函数 FC", "AList"]
-series = ["教程"]
 [extra]
-image = "img/47518d4403328a0fcb716f0e06fc7f608e6c65b7.webp"
+feature_image = "img/47518d4403328a0fcb716f0e06fc7f608e6c65b7.webp"
 +++
 # 还是建议购买一个便宜的云服务器来部署或者用家里云，这种方法很灵车
 

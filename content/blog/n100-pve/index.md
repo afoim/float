@@ -4,9 +4,8 @@ date = 2024-10-27
 description = "在N100小主机上安装PVE，然后在其中安装飞牛NAS和Debian，实现追番建站分离，并且易扩展，易迁移"
 [taxonomies]
 tags = ["PVE"]
-series = ["记录"]
 [extra]
-image = "img/N100-PVE_cover.webp"
+feature_image = "img/N100-PVE_cover.webp"
 +++
 
 # 配置&需求

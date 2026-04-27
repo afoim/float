@@ -2,8 +2,10 @@
 title = "让我们自建一个自己的CDN！"
 date = 2026-04-11
 description = "你有没有想过从0通过各种开源项目自己搭建一个CDN？今天就来教你！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/scdn.png"
+feature_image = "img/scdn.png"
 +++
 # 前情提要
 

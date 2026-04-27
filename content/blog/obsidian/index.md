@@ -5,7 +5,7 @@ description = "曾经我使用MarkText编写文章，今天收到朋友推荐，
 [taxonomies]
 tags = ["Obsidian", "Markdown"]
 [extra]
-image = "img/obsidian.webp"
+feature_image = "img/obsidian.webp"
 +++
 
 > 视频链接： https://www.bilibili.com/video/BV1C7pDzpEHY

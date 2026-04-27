@@ -4,9 +4,8 @@ date = 2025-03-11
 description = "想要一个域名邮箱？这里提供两种免费方案：网易免费企业邮和腾讯企业邮箱，各有优劣，按需选择！"
 [taxonomies]
 tags = ["域名邮箱", "网易免费企业邮", "微信企业邮"]
-series = ["教程"]
 [extra]
-image = "img/2025-05-02-21-04-48-image.webp"
+feature_image = "img/2025-05-02-21-04-48-image.webp"
 +++
 
 

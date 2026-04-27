@@ -4,9 +4,8 @@ date = 2025-07-29
 description = "很多人把网站做出来之后就不再维护了，但如果你希望搜索引擎更快收录并获得更好的排名，其实还有不少细节值得优化。"
 [taxonomies]
 tags = ["SEO"]
-series = ["记录"]
 [extra]
-image = "img/f334c97b-bb75-4920-8bd1-e62c9e5c675c.webp"
+feature_image = "img/f334c97b-bb75-4920-8bd1-e62c9e5c675c.webp"
 +++
 
 

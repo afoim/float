@@ -4,9 +4,8 @@ date = 2025-02-24
 description = "使用AutoBangumi连接qBittorrent下载番剧，然后使用刮削软件刮削，设置一遍，享受终身"
 [taxonomies]
 tags = ["AutoBangumi"]
-series = ["教程"]
 [extra]
-image = "img/QmXYf2u6BZMseAzjPUhcHsdfdhQpc3XkdjuEi4VvE1BkTn.webp"
+feature_image = "img/QmXYf2u6BZMseAzjPUhcHsdfdhQpc3XkdjuEi4VvE1BkTn.webp"
 +++
 
 

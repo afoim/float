@@ -4,9 +4,8 @@ date = 2025-08-14
 description = "Typora是一个简洁易用（？）的MarkDown编辑器，不想交钱？改几行文件就破解！"
 [taxonomies]
 tags = ["Typora"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-20-21-08-22-image.webp"
+feature_image = "img/2025-08-20-21-08-22-image.webp"
 +++
 
 

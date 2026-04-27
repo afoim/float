@@ -5,7 +5,7 @@ description = "AnuNeko是一只会哈气的橘猫...其实不是，AnuNeko是由
 [taxonomies]
 tags = ["AnuNeko", "NoneBot2", "AI"]
 [extra]
-image = "img/anuneko.webp"
+feature_image = "img/anuneko.webp"
 +++
 # 这是What
 这是橘猫，会哈气（见封面

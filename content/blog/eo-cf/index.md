@@ -4,9 +4,8 @@ date = 2025-06-26
 description = "EdgeOne的低延迟+Cloudflare的强大业务！我都不敢想这有多爽！"
 [taxonomies]
 tags = ["EdgeOne", "Cloudflare"]
-series = ["记录"]
 [extra]
-image = "img/50839e45-bb5c-4fd5-8e88-3959295fb9bb.webp"
+feature_image = "img/50839e45-bb5c-4fd5-8e88-3959295fb9bb.webp"
 +++
 
 

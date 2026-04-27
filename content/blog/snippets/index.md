@@ -2,8 +2,10 @@
 title = "你...买 Cloudflare Pro 了吗？来玩超级牛逼的 Snippets ！"
 date = 2026-03-18
 description = "Snippets 是 Cloudflare 提供的不限量不计费的轻量Worker，我们可以拿她干不少有趣的业务！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/snippets-1.png"
+feature_image = "img/snippets-1.png"
 +++
 # 你...买Cloudflare Pro了吗？
 

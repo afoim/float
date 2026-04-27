@@ -5,7 +5,7 @@ description = "利用RVC训练音色模型然后使用Replay直出AI翻唱！"
 [taxonomies]
 tags = ["AI", "RVC", "Replay", "UVR"]
 [extra]
-image = "img/rvc-19.webp"
+feature_image = "img/rvc-19.webp"
 +++
 
 # 视频教程

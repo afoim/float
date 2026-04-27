@@ -5,7 +5,7 @@ description = "我真的受够了Win11那黏黏的感觉了，什么？能降级
 [taxonomies]
 tags = ["Windows", "降级"]
 [extra]
-image = "img/win11-to-win10.webp"
+feature_image = "img/win11-to-win10.webp"
 +++
 # 前言
 

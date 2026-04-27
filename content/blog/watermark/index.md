@@ -2,8 +2,10 @@
 title = "你需要为你的网站上水印吗？水印怎么打才有效？"
 date = 2026-02-04
 description = "很早之前，我得知了我的文章被盗了，当时觉得也没啥，今天又翻到当时的聊天记录，还是觉得就算文章被盗了，也应该让看文章的所有用户都知道原文章到底是谁写的"
+[taxonomies]
+tags = []
 [extra]
-image = "img/watermark.webp"
+feature_image = "img/watermark.webp"
 +++
 > [!CAUTION]
 > 2月4号的2xss你好呀

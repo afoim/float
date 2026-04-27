@@ -5,7 +5,7 @@ description = "魔判这部作品真的很不错，大家可以去Steam搜索魔
 [taxonomies]
 tags = ["解包", "魔法少女的魔女审判"]
 [extra]
-image = "img/212792e5-8634-4121-984b-c3477f463897.webp"
+feature_image = "img/212792e5-8634-4121-984b-c3477f463897.webp"
 +++
 
 # 正式开始

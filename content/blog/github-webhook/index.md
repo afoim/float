@@ -4,9 +4,8 @@ date = 2025-05-18
 description = "针对于静态博客，博主在文章更新后一般需要手动通知订阅者阅读新的文章，本文通过WebHook来实现一个全自动的文章更新通知"
 [taxonomies]
 tags = ["Github", "Netlify", "QQBot"]
-series = ["教程"]
 [extra]
-image = "img/69389a6f-da33-4f53-be34-408b9f88d9e1.webp"
+feature_image = "img/69389a6f-da33-4f53-be34-408b9f88d9e1.webp"
 +++
 
 

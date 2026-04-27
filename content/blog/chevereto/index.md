@@ -4,9 +4,8 @@ date = 2025-07-15
 description = "被宝塔开心版的站长推荐了Chevereto这个图床，刚好刚刚嫖了个免费的虚拟主机，让我们开始折腾！"
 [taxonomies]
 tags = ["Chevereto", "图床"]
-series = ["教程"]
 [extra]
-image = "img/f31ca517-8f5b-4e53-af08-c32aabc224ab.webp"
+feature_image = "img/f31ca517-8f5b-4e53-af08-c32aabc224ab.webp"
 +++
 
 # 视频教程

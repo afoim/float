@@ -4,9 +4,8 @@ date = 2025-05-01
 description = "Discourse是一个开源的强大的论坛系统，让你马上就能拥有自己的BBS"
 [taxonomies]
 tags = ["Discourse"]
-series = ["教程"]
 [extra]
-image = "img/2025-05-02-22-03-04-image.webp"
+feature_image = "img/2025-05-02-22-03-04-image.webp"
 +++
 
 

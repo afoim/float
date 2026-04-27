@@ -4,9 +4,8 @@ date = 2025-05-30
 description = "利用CF动态重定向透过STUN+Lucky WebHook实时更新STUN端口实现NAT1家宽建站"
 [taxonomies]
 tags = ["NAT1", "Lucky", "Cloudflare"]
-series = ["教程"]
 [extra]
-image = "img/0aa77bad-482a-4b65-9a19-4f35acb570ba.webp"
+feature_image = "img/0aa77bad-482a-4b65-9a19-4f35acb570ba.webp"
 +++
 
 

@@ -5,7 +5,7 @@ description = "这几年我折腾过不少麦克风：从几千元的舒尔、RO
 [taxonomies]
 tags = ["麦克风"]
 [extra]
-image = "img/2025-09-02-10-39-10-5f50a607bf666647544c19515aaa15f3.webp"
+feature_image = "img/2025-09-02-10-39-10-5f50a607bf666647544c19515aaa15f3.webp"
 +++
 
 

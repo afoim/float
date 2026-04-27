@@ -4,9 +4,8 @@ date = 2025-07-05
 description = "Umami是一个站点统计服务，只需要插入一行js即可获得高效，易读，可观察性的站点统计！"
 [taxonomies]
 tags = ["Umami"]
-series = ["教程"]
 [extra]
-image = "img/6eedb10a-08d3-4268-8caf-370bc093a668.webp"
+feature_image = "img/6eedb10a-08d3-4268-8caf-370bc093a668.webp"
 +++
 # 正式开始
 

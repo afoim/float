@@ -5,7 +5,7 @@ description = "早期的我很有先见之明，在使用Umami的时候是自建
 [taxonomies]
 tags = ["Umami", "PostgreSQL"]
 [extra]
-image = "img/umami-migration.webp"
+feature_image = "img/umami-migration.webp"
 +++
 # 正式开始
 首先，我们想要迁移，首先肯定是要拿到原来的Umami Cloud存放的数据

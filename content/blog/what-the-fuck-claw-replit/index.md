@@ -2,8 +2,10 @@
 title = "WTF？免费优质线路2c4g VPS！免费GLM模型无限用！免费Opus 4.6！"
 date = 2026-04-05
 description = "2026年4月6日，这天凌晨...神了..."
+[taxonomies]
+tags = []
 [extra]
-image = "img/claude.png"
+feature_image = "img/claude.png"
 +++
 # 免费优质线路2c4g VPS + 免费GLM无限用
 

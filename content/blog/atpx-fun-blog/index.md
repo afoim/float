@@ -4,9 +4,8 @@ date = 2025-08-13
 description = "今天在床上打滚突然找到一个神秘博客，还挺有意思的"
 [taxonomies]
 tags = ["博客"]
-series = ["记录"]
 [extra]
-image = "img/2025-08-13-18-46-20-image.webp"
+feature_image = "img/2025-08-13-18-46-20-image.webp"
 +++
 
 

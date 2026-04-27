@@ -2,8 +2,10 @@
 title = "一行命令拉爆你的Win11硬盘4K随机性能！"
 date = 2026-02-26
 description = "你知道吗？其实Windows一直都在让NVMe硬盘以兼容模式跑！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/win11-native-nvme.png"
+feature_image = "img/win11-native-nvme.png"
 +++
 # 前言
 

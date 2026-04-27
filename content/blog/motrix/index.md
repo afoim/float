@@ -4,9 +4,8 @@ date = 2025-05-25
 description = "如果你觉得 Chromium 浏览器自带下载速度太慢，不妨试试免费开源、界面简洁且体验不错的第三方下载器 Motrix。"
 [taxonomies]
 tags = ["Motrix", "下载器"]
-series = ["教程"]
 [extra]
-image = "img/ee0efba8-8c27-449f-86d0-3e9367d12463.webp"
+feature_image = "img/ee0efba8-8c27-449f-86d0-3e9367d12463.webp"
 +++
 
 

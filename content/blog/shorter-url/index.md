@@ -2,8 +2,10 @@
 title = "无需服务器！从零教你自建一个短链服务！"
 date = 2026-01-09
 description = "你是否有一个短域名？没有也没关系，马上教你从域名开始搭建一个短链服务！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/shorter-url.webp"
+feature_image = "img/shorter-url.webp"
 +++
 
 # 视频

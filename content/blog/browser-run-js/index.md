@@ -4,9 +4,8 @@ date = 2025-04-24
 description = "本文深度剖析浏览器的JS运行原理以及浏览器内部事件处理的根本操作：事件循环"
 [taxonomies]
 tags = ["浏览器", "JS"]
-series = ["记录"]
 [extra]
-image = "img/4b040799-eec9-457e-a04e-edf8b7e35b94.webp"
+feature_image = "img/4b040799-eec9-457e-a04e-edf8b7e35b94.webp"
 +++
 
 # 引言：以下JS代码运行的结果是什么？

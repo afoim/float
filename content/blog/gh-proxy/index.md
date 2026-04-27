@@ -4,9 +4,8 @@ date = 2025-04-14
 description = "搭建Github全站代理的完整指南，涵盖原理讲解与多种部署方案（Cloudflare Worker、EdgeOne Pages、Vercel、VPS+Go）"
 [taxonomies]
 tags = ["Github", "反向代理", "Cloudflare Worker", "EdgeOne", "Vercel"]
-series = ["教程"]
 [extra]
-image = "img/8bb2d8ae-1703-44e8-9f3b-10b46ab69913.webp"
+feature_image = "img/8bb2d8ae-1703-44e8-9f3b-10b46ab69913.webp"
 +++
 
 

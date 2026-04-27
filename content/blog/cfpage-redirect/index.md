@@ -4,9 +4,8 @@ date = 2025-07-12
 description = "Cloudflare的重定向规则非常强大，但是如果直接使用重定向规则创建批量重定向会消耗很多的配额"
 [taxonomies]
 tags = ["Cloudflare"]
-series = ["教程"]
 [extra]
-image = "img/530d7a11-c9ea-45ed-905a-1e3965f3e3b3.webp"
+feature_image = "img/530d7a11-c9ea-45ed-905a-1e3965f3e3b3.webp"
 +++
 
 # 快速上手！

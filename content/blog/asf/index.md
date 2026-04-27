@@ -4,9 +4,8 @@ date = 2024-12-17
 description = "ArchiSteamFarm是一个Steam自动挂卡工具，它可以自动识别哪些游戏没有挂卡并且自动挂卡，高效率获得Steam集换式卡牌"
 [taxonomies]
 tags = ["Steam"]
-series = ["教程"]
 [extra]
-image = "https://eo-r2.2x.nz/myblog/img/QmPEHve8DdVZdwxAZ26BPgbc6cDCBaKC76VVijqVoMBY2k.webp"
+feature_image = "https://eo-r2.2x.nz/myblog/img/QmPEHve8DdVZdwxAZ26BPgbc6cDCBaKC76VVijqVoMBY2k.webp"
 +++
 # 可用的目标作业系统
 

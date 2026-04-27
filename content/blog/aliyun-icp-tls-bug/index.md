@@ -1,6 +1,8 @@
 +++
 title = "阿里云网关 DPI 阻断绕过漏洞分析报告：TLS Client Hello 分片逃逸"
 date = 2026-02-11
+[taxonomies]
+tags = []
 +++
 > [!caution]
 > 提了Bug也没人管，公开了，侵删

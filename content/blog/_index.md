@@ -1,8 +1,10 @@
 +++
-title = "Blog posts"
-template = "blog.html"
-page_template = "blog-post.html"
-paginate_by = 6
+title = "Blog"
+
+# Whether to sort pages by "date", "weight", or "none". More on that below
 sort_by = "date"
-transparent = true
+
+# How many pages to be displayed per paginated page.
+# No pagination will happen if this isn't set or if the value is 0
+paginate_by = 10
 +++

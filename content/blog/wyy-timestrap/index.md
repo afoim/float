@@ -4,9 +4,8 @@ date = 2025-07-26
 description = "如果你需要歌词时间戳，且歌曲为网易云提供，那么获取它将无比简单"
 [taxonomies]
 tags = ["网易云音乐"]
-series = ["记录"]
 [extra]
-image = "img/3f73417c-f6a1-4715-bd1e-ee56a82c0ee6.webp"
+feature_image = "img/3f73417c-f6a1-4715-bd1e-ee56a82c0ee6.webp"
 +++
 # 正式开始
 

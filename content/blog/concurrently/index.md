@@ -2,8 +2,10 @@
 title = "你在做全栈吗？你想要前后端统一的热重载吗？"
 date = 2026-03-24
 description = "经常做全栈的小伙伴们都知道，写完后端看效果要dev，写完前端看效果也要dev，那么有没有一劳永逸的解决方案呢？"
+[taxonomies]
+tags = []
 [extra]
-image = "img/concurrently.png"
+feature_image = "img/concurrently.png"
 +++
 # 引言
 

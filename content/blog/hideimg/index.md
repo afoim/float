@@ -4,9 +4,8 @@ date = 2025-08-03
 description = "教你制作自己的“光棱坦克”！"
 [taxonomies]
 tags = ["图片隐写"]
-series = ["教程"]
 [extra]
-image = "img/2025-08-04-12-05-21-image.webp"
+feature_image = "img/2025-08-04-12-05-21-image.webp"
 +++
 
 

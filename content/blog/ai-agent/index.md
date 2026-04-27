@@ -2,8 +2,10 @@
 title = "AI Agent 二三事"
 date = 2026-03-05
 description = "从实战角度对比 AI IDE 与 AI Agent，并演示如何用 ZCF 快速安装和配置 Codex。"
+[taxonomies]
+tags = []
 [extra]
-image = "img/ai-agent.png"
+feature_image = "img/ai-agent.png"
 +++
 # 引言
 

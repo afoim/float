@@ -4,9 +4,8 @@ date = 2025-08-01
 description = "通过自建Synapse，用户可以通过Element等软件来直接在你的服务器上聊天"
 [taxonomies]
 tags = ["Matrix", "Synapse"]
-series = ["教程"]
 [extra]
-image = "img/2025-08-02-17-20-32-image.webp"
+feature_image = "img/2025-08-02-17-20-32-image.webp"
 +++
 
 

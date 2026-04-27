@@ -2,8 +2,10 @@
 title = "俗话都说项目写久了会变成史山...今天我们来铲史..."
 date = 2026-04-19
 description = "什么？我只想改一个字看看预览都要等1分钟？这是什么神人项目啊？！"
+[taxonomies]
+tags = []
 [extra]
-image = "img/astro.png"
+feature_image = "img/astro.png"
 +++
 # 引言
 众所周知，目前我们用的是基于一个本来非常优雅的静态博客生成器 [Astro](https://docs.astro.build/zh-cn/getting-started/) 和一个本来非常优雅的博客主题 [Fuwari](https://github.com/saicaca/fuwari) 来制作的该网站
